@@ -1,0 +1,20 @@
+MODEL SWITCHING:
+1 -- Phong
+2 -- Blinn-Phong
+3 -- Wireframe Shader
+
+=== Camera Controls ===
+W - Rotate Upward
+S - Rotate Downward
+A - Rotate Left
+D - Rotate Right
+Z - Track In
+X - Track Out
+
+=== Light Controls ===
+I - Rotate Up
+K - Rotate Down
+J - Rotate Left
+L - Rotate Right
+N - Track In
+M - Track Out
